@@ -27,7 +27,7 @@ export default function RootLayout({
               <Link href="/" className="hover:text-gray-300">
                 Home
               </Link>
-              <Link href="/adguard" className="hover:text-gray-300">
+              <Link href="/phishx" className="hover:text-gray-300">
                 Dashboard
               </Link>
             </div>
