@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import axios, { AxiosError } from 'axios';
 
 // Use relative URL to our own API proxy instead of the direct AdGuard URL
