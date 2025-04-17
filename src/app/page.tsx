@@ -136,7 +136,7 @@ export default function Home() {
             Get started with PhishX today and protect your network from phishing
             threats with our advanced protection system.
           </p>
-          <Link href="/adguard">
+          <Link href="/phishx">
             <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
               Access Dashboard
             </Button>
